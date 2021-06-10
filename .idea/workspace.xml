@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32792e4b-081a-47ef-a9e3-ae9ce6bce76d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="G:\software\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="G:\software\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="G:\software\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jGl0flFKXeyIY6galiOlcEVSuO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="entity" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Robot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="robot.Robot" />
+      <module name="codex-robot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Robot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32792e4b-081a-47ef-a9e3-ae9ce6bce76d" name="Default Changelist" comment="" />
+      <created>1603438087885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603438087885</updated>
+      <workItem from="1603438089434" duration="486000" />
+      <workItem from="1603504523637" duration="1414000" />
+      <workItem from="1603506136098" duration="2259000" />
+      <workItem from="1603508409411" duration="46000" />
+      <workItem from="1603508483312" duration="3185000" />
+      <workItem from="1603513528470" duration="17438000" />
+      <workItem from="1603549896264" duration="266000" />
+      <workItem from="1603589630919" duration="6344000" />
+      <workItem from="1603633578718" duration="434000" />
+      <workItem from="1603677203797" duration="11143000" />
+      <workItem from="1603699890036" duration="5000" />
+      <workItem from="1603702775237" duration="381000" />
+      <workItem from="1603711635092" duration="38000" />
+      <workItem from="1603711693777" duration="309000" />
+      <workItem from="1603720055290" duration="1246000" />
+      <workItem from="1603794895173" duration="1111000" />
+      <workItem from="1603803170703" duration="9803000" />
+      <workItem from="1603973854986" duration="23180000" />
+      <workItem from="1604132899477" duration="180000" />
+      <workItem from="1604306801443" duration="1040000" />
+      <workItem from="1604309007017" duration="3139000" />
+      <workItem from="1604314124552" duration="26850000" />
+      <workItem from="1604481789276" duration="15637000" />
+      <workItem from="1604652699875" duration="4000" />
+      <workItem from="1604652722614" duration="48000" />
+      <workItem from="1604652801274" duration="1892000" />
+      <workItem from="1604666497161" duration="1086000" />
+      <workItem from="1604711522520" duration="2137000" />
+      <workItem from="1604717277012" duration="2471000" />
+      <workItem from="1604738262387" duration="849000" />
+      <workItem from="1604806965987" duration="11395000" />
+      <workItem from="1605076911302" duration="1856000" />
+      <workItem from="1605100082753" duration="2418000" />
+      <workItem from="1605172086156" duration="1459000" />
+      <workItem from="1605323462558" duration="270000" />
+      <workItem from="1605576059840" duration="26000" />
+      <workItem from="1605576099980" duration="4663000" />
+      <workItem from="1605620141331" duration="311000" />
+      <workItem from="1606184489288" duration="39000" />
+      <workItem from="1606184546833" duration="19000" />
+      <workItem from="1606184598771" duration="802000" />
+      <workItem from="1606195187460" duration="310000" />
+      <workItem from="1606796295211" duration="367000" />
+      <workItem from="1607654987620" duration="1975000" />
+      <workItem from="1607937212526" duration="335000" />
+      <workItem from="1608625667985" duration="104000" />
+      <workItem from="1609172142243" duration="215000" />
+      <workItem from="1609426695087" duration="714000" />
+      <workItem from="1609430984697" duration="924000" />
+      <workItem from="1609747401747" duration="656000" />
+      <workItem from="1610373669716" duration="680000" />
+      <workItem from="1614651168315" duration="763000" />
+      <workItem from="1614653574605" duration="9758000" />
+      <workItem from="1614815704117" duration="659000" />
+      <workItem from="1614870093060" duration="1869000" />
+      <workItem from="1614872120199" duration="1724000" />
+      <workItem from="1614906186278" duration="263000" />
+      <workItem from="1614906749186" duration="657000" />
+      <workItem from="1614907795072" duration="7228000" />
+      <workItem from="1614915148893" duration="494000" />
+      <workItem from="1614916810884" duration="9000" />
+      <workItem from="1614925894946" duration="595000" />
+      <workItem from="1614929190772" duration="3235000" />
+      <workItem from="1614938792231" duration="597000" />
+      <workItem from="1614956649576" duration="1550000" />
+      <workItem from="1614958257151" duration="360000" />
+      <workItem from="1614959154008" duration="855000" />
+      <workItem from="1616044725740" duration="282000" />
+      <workItem from="1616425476934" duration="1199000" />
+      <workItem from="1617117520167" duration="1941000" />
+      <workItem from="1617262771503" duration="267000" />
+      <workItem from="1619406020132" duration="2453000" />
+      <workItem from="1619711893759" duration="372000" />
+      <workItem from="1619712568828" duration="88000" />
+      <workItem from="1619712674312" duration="2122000" />
+      <workItem from="1619790722171" duration="606000" />
+      <workItem from="1620268352273" duration="1821000" />
+      <workItem from="1621044815065" duration="305000" />
+      <workItem from="1621503427058" duration="18000" />
+      <workItem from="1623306346703" duration="1740000" />
+      <workItem from="1623308227349" duration="7000" />
+      <workItem from="1623308240879" duration="12000" />
+      <workItem from="1623309258816" duration="205000" />
+      <workItem from="1623309481716" duration="196000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1623307117957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1623307117957" />
+    <state x="-1143" y="241" key="FileChooserDialogImpl" timestamp="1614931299121">
+      <screen x="-1920" y="131" width="1536" height="824" />
+    </state>
+    <state x="-1143" y="241" key="FileChooserDialogImpl/0.0.1536.824/-1920.131.1536.824@-1920.131.1536.824" timestamp="1614931299121" />
+    <state width="1174" height="117" key="GridCell.Tab.0.bottom" timestamp="1623308097703">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="190" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.131.1536.824@-1920.131.1536.824" timestamp="1614958214006" />
+    <state width="1493" height="190" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.131.1536.824@0.0.1536.824" timestamp="1614960016856" />
+    <state width="1174" height="117" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1623308097703" />
+    <state width="1174" height="117" key="GridCell.Tab.0.center" timestamp="1623308097703">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="190" key="GridCell.Tab.0.center/0.0.1536.824/-1920.131.1536.824@-1920.131.1536.824" timestamp="1614958214006" />
+    <state width="1493" height="190" key="GridCell.Tab.0.center/0.0.1536.824/-1920.131.1536.824@0.0.1536.824" timestamp="1614960016856" />
+    <state width="1174" height="117" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1623308097703" />
+    <state width="1174" height="117" key="GridCell.Tab.0.left" timestamp="1623308097703">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="190" key="GridCell.Tab.0.left/0.0.1536.824/-1920.131.1536.824@-1920.131.1536.824" timestamp="1614958214006" />
+    <state width="1493" height="190" key="GridCell.Tab.0.left/0.0.1536.824/-1920.131.1536.824@0.0.1536.824" timestamp="1614960016855" />
+    <state width="1174" height="117" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1623308097703" />
+    <state width="1174" height="117" key="GridCell.Tab.0.right" timestamp="1623308097703">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="190" key="GridCell.Tab.0.right/0.0.1536.824/-1920.131.1536.824@-1920.131.1536.824" timestamp="1614958214006" />
+    <state width="1493" height="190" key="GridCell.Tab.0.right/0.0.1536.824/-1920.131.1536.824@0.0.1536.824" timestamp="1614960016856" />
+    <state width="1174" height="117" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1623308097703" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1623307804245">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824/-1920.131.1536.824@0.0.1536.824" timestamp="1614914752411" />
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1623307804245" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1623309463624">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1623309463624" />
+  </component>
+</project>
